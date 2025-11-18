@@ -113,7 +113,7 @@ def main():
     with cols[1]:
         st.markdown("""
         <div class="impact-metric">
-            <h3>68%</h3>
+            <h3>75%</h3>
             <p>Customer Retention</p>
         </div>
         """, unsafe_allow_html=True)
@@ -173,7 +173,7 @@ def main():
         - ✅ Customer behavior analysis
         - ✅ Dynamic pricing optimization
         - ✅ 43% monthly revenue growth
-        - ✅ 68% customer retention rate
+        - ✅ 75% customer retention rate
         - ✅ Cloud data storage
         """)
     
@@ -194,7 +194,7 @@ def main():
     # Contest Information
     st.markdown("---")
     st.markdown("""
-    ## 🏅 National Tech Contest 2024
+    ## 🏅 Resilience Through Innovation Hackathon Akwa Ibom/ South-South 2025
     **BizBoost** - Empowering 5,000+ Nigerian SMEs with AI-driven growth solutions
     
     **Award-Winning Features:**
