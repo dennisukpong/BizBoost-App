@@ -160,7 +160,7 @@ def main():
     # Demo Scenario
     st.markdown("## 🎪 Live Demo Scenario")
     
-    with st.expander("👩‍🍳 See How Ngozi's Bakery Increased Revenue by 43%"):
+    with st.expander("👩‍🍳 See How Imaobong's Bakery Increased Revenue by 43%"):
         st.info("""
         **Before BizBoost:**
         - ❌ Manual sales tracking in notebooks
