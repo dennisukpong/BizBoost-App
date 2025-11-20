@@ -24,7 +24,7 @@ def init_demo_user():
             users_collection.insert_one({
                 'username': 'demo_bakery',
                 'password': hash_password('demo123'),
-                'business_name': "Ngozi's Bakery (Demo)",
+                'business_name': "Imaobong's Bakery (Demo)",
                 'business_type': "Restaurant/Bakery",
                 'created_at': datetime.now().isoformat(),
                 'last_login': None
